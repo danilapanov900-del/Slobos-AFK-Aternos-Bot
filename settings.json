@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "pelmen-craft.aternos.me",
+    "port": 33830,
     "version": "",
     "try-creative": false
   },
